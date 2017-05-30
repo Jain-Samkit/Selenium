@@ -1,0 +1,11 @@
+---
+url: https://www.google.com
+searchKey: Bing Translator
+language: fr
+testData: Poppy! How are you doing?
+testResult: Pavot! Comment vas-tu?
+pageTitles:
+ - title1: Google
+ - title2: Bing Translator - Google Search
+ - title3: Bing Translator
+...
